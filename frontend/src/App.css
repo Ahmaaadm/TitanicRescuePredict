@@ -1,0 +1,23 @@
+nav {
+  background: #282c34;
+  padding: 1rem;
+}
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+  gap: 1rem;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+form {
+  margin-top: 1rem;
+}
+
+form div {
+  margin-bottom: 1rem;
+}
